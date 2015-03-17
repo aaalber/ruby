@@ -7,4 +7,4 @@ prices[:oscar] = 1.00
 
 prices.values
 
-puts prices.values
+puts prices.values  #Prints each value of array with /n after
